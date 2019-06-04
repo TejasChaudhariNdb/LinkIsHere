@@ -1,0 +1,36 @@
+ body{
+ 
+ background-image: linear-gradient(0deg,#e43a15, #e65245);
+ }
+ 
+  .profile-info{
+    color: #fff;;
+		   }
+		   
+		      .profile-card{
+		  background-color: F7B538;
+		}
+		
+		.btn-color {
+		    background-color: Transparent!important;
+		}
+		.btn-color-high{
+	    background-color: Transparent !important;
+	
+		
+		}
+		
+		
+			
+		.btn-text{
+		color:white;
+		}
+		.btn-text:hover{
+		   color: #e43a15 !important;
+		}
+		
+		.btn-color:hover{
+		    background-color: white !important;
+		    
+		 
+		}

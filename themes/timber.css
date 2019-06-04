@@ -1,0 +1,42 @@
+ body{
+ 
+    background-image: linear-gradient(40deg,#00dbde,#fc00ff);
+ }
+ 
+  .profile-info{
+    color: #1e88e5 ;
+		   }
+		   
+		      .profile-card{
+		  background-color: white;
+		}
+		.user_name{
+	color:black;	
+		}
+	
+		.btn-color {
+		    background-color: Transparent!important;
+		}
+		.btn-color-high{
+	    background-color: Transparent !important;
+	
+		
+		}
+		
+		
+			
+		
+		.btn-text:hover{
+		   color: #fc00ff !important;
+		}
+		
+		.btn-color:hover{
+		    background-color: white !important;
+		    
+		 
+		}
+		
+		.btn-text{
+		color:white;
+		}
+		

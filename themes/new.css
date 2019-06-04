@@ -1,0 +1,44 @@
+ body{
+ 
+     background: #06D6A0;
+ }
+ 
+ .profile-card {
+    background-color: #FFD166;
+}
+  .profile-info{
+  color:FCFCFC;
+		   }
+		   
+	
+		.btn-color {
+    background-color: #26547C !important;
+		}
+	
+		.btn-color-high{
+	
+	    background-color: EF476F!important;
+	    
+	    }
+	    
+
+				
+		
+		.btn-text:hover{
+		   color: #0B0014 !important;
+		}
+		
+		.btn-color:hover{
+		    background-color: white !important;
+		    
+		 
+		}
+		
+		.btn-text{
+		color:white;
+		}
+		
+		
+		.footer-text{
+		color:white !important;
+		}
